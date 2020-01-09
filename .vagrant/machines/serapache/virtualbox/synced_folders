@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/paloma/DISCO2/CICLO II/IMPLANTACIÓN DE APLICACIONES WEB/Integracion_continua","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
