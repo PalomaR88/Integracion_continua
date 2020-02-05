@@ -55,16 +55,16 @@ deploy:
 ~~~
 
 En travis-ci.com se seleccionan los repositorios que queramos que se utilicen, en nuestro caso solo un.
-[imagen](imagen/aimg.png)
+![imagen](imagen/aimg.png)
 
 En el repositorio hay que crear el token en la siguiente ventana en el apartado setting:
-[imagen](imagen/bimg.png)
+![imagen](imagen/bimg.png)
 
 Con las siguientes opciones:
-[imagen](imagen/cimg.png)
+![imagen](imagen/cimg.png)
 
 Y en travis se introduce la clave del token que se ha creado:
-[imagen](imagen/dimg.png)
+![imagen](imagen/dimg.png)
 
 [Pincha aquí para ver la página creada](https://palomar88.github.io/)
 
